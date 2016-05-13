@@ -1,3 +1,4 @@
+//only test for seg fault
 #include <stdio.h>
 #include <stdlib.h>
 
